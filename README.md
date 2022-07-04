@@ -1,4 +1,7 @@
 # Vallie-s-Estate
+Project Author
+This project is developed by Faith Wambui.
+
 Project Description
 Vallie's-Estate is a website that aims to digitalize the process of renting of houses, making payments, renting and overall management.
 

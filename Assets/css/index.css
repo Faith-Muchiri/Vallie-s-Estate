@@ -7,6 +7,12 @@
     border-style: none;
     border-width: 5px;
 }
+body{
+    background-color: #FAFAFA;
+}
+h1{
+    color: #0F298B;
+}
 
 .div{
     margin-left:5px;
@@ -73,6 +79,7 @@
     display: flex;
   }
   
+
   .container2 {
     display: flex;
     align-items: center;
@@ -88,17 +95,28 @@
     font-size: 20px;
     padding: 20px;
   }
-
+.Property{
+    text-align: center;
+}
   .customer{
     float: left;
     width: 33.33%;
+    border: none;
+    background-color: white;
+    max-width: 33.33%;
   }
   
   /* Clear floats after the columns */
   .Esteemed-Customers:after {
     content: "";
     display: table;
+
     clear: both;
+  }
+
+  .text3{
+    text-align: center;
+    margin: 20px 20px;
   }
   .footer {
     padding: 20px; 
